@@ -1,7 +1,6 @@
-# Measure-Up
+[![Watch the video]()](https://www.linkedin.com/posts/chathura-weerasinghe-9a08bb213_humanabrcomputersabrinteraction-innovation-activity-7228252607977246721-O4PD?utm_source=share&utm_medium=member_desktop)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7228252112042737664" height="676" width="504" frameborder="0" allowfullscreen="" title="Embedded post">
-</iframe>
+# Measure-Up
 
 1. [Introduction](#introduction)
 2. [Device Architecture](#device-architecture)
