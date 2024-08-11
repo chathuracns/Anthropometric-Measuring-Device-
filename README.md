@@ -1,5 +1,8 @@
 # Measure-Up
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7228252112042737664" height="676" width="504" frameborder="0" allowfullscreen="" title="Embedded post">
+</iframe>
+
 1. [Introduction](#introduction)
 2. [Device Architecture](#device-architecture)
 3. [Design](#design)
